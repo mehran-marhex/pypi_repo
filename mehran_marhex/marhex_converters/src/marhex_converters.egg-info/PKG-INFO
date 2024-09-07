@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: marhex_validators
-Version: 2.3.0
+Name: marhex_converters
+Version: 1.0.0
 Summary: A small example package
 Author-email: "Mehran Resalat (MarHex)" <mehran.marhex@gmail.com>
 Project-URL: GitHub, https://github.com/mehran-marhex

@@ -1,6 +1,6 @@
 [project]
-name = "marhex_validators"
-version = "2.3.1"
+name = "marhex_converters"
+version = "1.0.0"
 authors = [
   { name="Mehran Resalat (MarHex)", email="mehran.marhex@gmail.com" },
 ]
