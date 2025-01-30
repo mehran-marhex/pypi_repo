@@ -8,6 +8,8 @@ src/marhex.egg-info/dependency_links.txt
 src/marhex.egg-info/top_level.txt
 src/marhex/Converters/__init__.py
 src/marhex/Converters/lang_num.py
+src/marhex/ServerInfo/__init__.py
+src/marhex/ServerInfo/network.py
 src/marhex/Validators/__init__.py
 src/marhex/Validators/is_iter.py
 src/marhex/Validators/mobile_phone_number.py
